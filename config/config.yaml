@@ -257,7 +257,7 @@ report:
 #   # false: 按匹配条数排序（条数多的在前）
 #   priority_sort_enabled: true
 filter:
-  method: "ai"                     # 改用AI模式（比关键词更灵活，能识别隐性关联）
+  method: "keyword"                     # 改用AI模式（比关键词更灵活，能识别隐性关联）
   priority_sort_enabled: true      # 按兴趣优先级排序（客流相关优先）
 
 # ===============================================================
